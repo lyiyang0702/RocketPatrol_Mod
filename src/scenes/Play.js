@@ -3,6 +3,7 @@ class Play extends Phaser.Scene {
         super ("playScene");
     }
     
+    // players and bullets assets from https://yukiharus.tumblr.com/post/137636832711/separate-character-pixels-gs1-gs2-gs3-gs4
     preload() {
         // load images
         this.load.path = './assets/';
