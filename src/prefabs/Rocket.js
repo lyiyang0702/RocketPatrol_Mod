@@ -8,7 +8,7 @@ class Rocket extends Phaser.GameObjects.Sprite {
         this.moveSpeed = 2;
         this.players = position;
     }
-    
+    // simultaneous two-player mode
     update(){
         // left/right movement
         if (this.players == 1 ){
