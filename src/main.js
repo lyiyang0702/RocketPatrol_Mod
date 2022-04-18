@@ -1,3 +1,8 @@
+// points breakdown
+// implement simultaneous two player mode (left and right player) (30 pts)
+// Redesign the game's artwork, UI, and sound to change its theme/aesthetic (ace attorney themes) (60 pts)
+// Create and implement a new weapon (w/ new behavior and graphics) (objection bullets) (20 pts)
+
 let config = {
     type: Phaser.CANVAS,
     width: 480,
