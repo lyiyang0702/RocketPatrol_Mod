@@ -3,6 +3,9 @@
 // Redesign the game's artwork, UI, and sound to change its theme/aesthetic (ace attorney themes) (60 pts)
 // Create and implement a new weapon (w/ new behavior and graphics) (objection bullets) (20 pts)
 
+// Yiyang Lu RocketPatrol Mod 04/18/2022
+// around 15 hours work
+
 let config = {
     type: Phaser.CANVAS,
     width: 480,
