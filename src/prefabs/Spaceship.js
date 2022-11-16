@@ -8,10 +8,10 @@ class Spaceship extends Phaser.GameObjects.Sprite {
         this.points = pointValue; // store pointValue
         this.moveSpeed = game.settings.spaceshipSpeed;
         if (pointValue == 20){
-            this.moveSpeed +=0.5;
+            this.moveSpeed +=0.1;
         }
         else if (pointValue == 30){
-            this.moveSpeed +=1;
+            this.moveSpeed +=0.3;
         }
     }
 
